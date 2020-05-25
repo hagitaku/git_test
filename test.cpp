@@ -68,5 +68,6 @@ public:
 
 int main(){
 	cin.tie(0);ios::sync_with_stdio(false);cout<<std::fixed<<std::setprecision(20);
+	rep(i,i+1)out("Hello,world!!");
 	return 0;
 }
